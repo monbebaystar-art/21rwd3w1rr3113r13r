@@ -509,3 +509,5 @@ function movePosition(targetX, targetY)
         printLogToConsole("FAILED TO REACH DESTINATION.", "error")
     end
 end
+
+movePosition(1, 0)
